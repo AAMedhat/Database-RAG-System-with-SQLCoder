@@ -14,8 +14,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system that uses 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-directory]
+git clone https://github.com/AAMedhat/Database-RAG-System-with-SQLCoder.git
+cd Database-RAG-System-with-SQLCoder
 ```
 
 2. Create and activate a virtual environment:
