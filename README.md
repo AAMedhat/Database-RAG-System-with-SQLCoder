@@ -7,8 +7,6 @@ This project implements a Retrieval-Augmented Generation (RAG) system that uses 
 - Python 3.8 or higher
 - PostgreSQL 12 or higher
 - Git
-- NVIDIA GPU with CUDA support (optional, but recommended)
-- 16GB+ RAM
 
 ## Installation
 
@@ -22,7 +20,7 @@ cd Database-RAG-System-with-SQLCoder
 ```bash
 python -m venv venv
 # On Windows:
-venv\Scripts\activate
+.venv\Scripts\activate
 # On Unix/MacOS:
 source venv/bin/activate
 ```
